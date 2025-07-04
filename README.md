@@ -2,8 +2,8 @@
 
 - 🔭 I’m Senior Software Engineer
 - 💬 Ask me anything about Web Application Development(WordPress & React|Next|Vue)!
-- 📚 My Linkedin Profile <a href="https://www.linkedin.com/in/daniel-guidry-13089636b" target="_blank" rel="noopener noreferrer">Linkedin</a>
-- 💼 My Portfolio: <a href="https://daniel-guidry.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
+- 📚 My Linkedin Profile <a href="https://www.linkedin.com/in/daniel-guidry-13089636b" target="_blank" rel="noopener noreferrer">Linkedin/Daniel-Guidry</a>
+- 💼 My Portfolio: <a href="https://daniel-guidry.vercel.app" target="_blank" rel="noopener noreferrer">Vercel.App</a>
 
 Experienced WordPress & Frontend Developer with over 10 years of hands-on experience building
 custom websites and applications using WordPress, WooCommerce, HTML/CSS, JavaScript, and modern
